@@ -11,10 +11,12 @@
             "id": "c27a8996a8088c20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "pdf",
+              "state": {
+                "file": "Documentos/Propuesta_ID_2431_260523_DSP_Aguas - Alcance.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Propuesta_ID_2431_260523_DSP_Aguas - Alcance"
             }
           }
         ]
@@ -183,6 +185,10 @@
   },
   "active": "c27a8996a8088c20",
   "lastOpenFiles": [
+    "Documentos/Emisarios Terrestres - ADV y ESVAL.kmz",
+    "Documentos/Propuesta_ID_2431_260523_DSP_Aguas - Alcance.pdf",
+    "Documentos",
+    "Procesamiento",
     "Observaciones/Mejora continua.md",
     "Registros/2026-06-16/Reporte Cristian Inostroza 2026-06-16.md",
     "Observaciones",
@@ -205,9 +211,6 @@
     "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (1).jpeg",
     "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46.jpeg",
     "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46 (3).jpeg",
-    "Registros/2026-06-17",
-    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.17.mp4",
-    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.15.mp4",
-    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.15 1.mp4"
+    "Registros/2026-06-17"
   ]
 }
