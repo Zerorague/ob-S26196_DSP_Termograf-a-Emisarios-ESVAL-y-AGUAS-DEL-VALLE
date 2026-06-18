@@ -35,7 +35,7 @@ Durante la mañana se realiza el cambio de control remoto en las oficinas de ABS
 - 17:00 horas. Retorno a Santiago.
 
 - ==Se deja coordinada la continuidad de los trabajos con ESVAL para el día **17/06/2026.**== [[Reporte Cristian Inostroza 2026-06-17]]
-## Fotos
+## Fotos y videos
 
 ![[WhatsApp Image 2026-06-16 at 16.48.12.jpeg]]
 

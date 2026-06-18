@@ -31,7 +31,7 @@ Fecha:17-06-2026
 - Finalizadas las actividades en terreno, el equipo inicia el retorno a Santiago aproximadamente a las 17:00 horas.
 
 **Se deja coordinado con ESVAL y Aguas del Valle para las operaciones en Coquimbo y La Serena el día 18/06/2026. Durante esta jornada estará personal de la Superintendencia observado el proceso de medición**
-## Fotos
+## Fotos y videos
 
 ![[WhatsApp Image 2026-06-17 at 19.37.44.jpeg]]
 
