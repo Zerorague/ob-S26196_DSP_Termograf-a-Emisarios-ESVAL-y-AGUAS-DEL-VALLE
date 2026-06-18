@@ -7,7 +7,7 @@ Se realizan los siguientes vuelos a emisarios con sensor H20T
 - Quintero
 ## Origen de datos y siguientes pasos
 - [📁 Proyecto Servidor](file:///Q:/01.-Procesamientos/01.-Servicios/S26196_DSP_Termograf%C3%ADa%20Emisarios%20ESVAL%20y%20AGUAS%20DEL%20VALLE)
-- [Vuelos subidos por Cristian](https://drive.google.com/drive/folders/1PjDkpDEpax-YVdJXKJ4Lfl1JBojrJLsL)
+- [Vuelos subidos por Cristian G-DRIVE](https://drive.google.com/drive/folders/1PjDkpDEpax-YVdJXKJ4Lfl1JBojrJLsL)
 ### Generar orto mosaico térmico
 [[Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas]]
 
