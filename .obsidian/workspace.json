@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2025676eff4c4fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a72e7ecc6d7739e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c27a8996a8088c20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fdf2470955fb15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "50291eba126b5674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba427344b330fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "9111be208e243f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "88917f8620659470",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cd9c59c553368ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "23efe26785a36916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97e131a5d4f0596",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "79518e91449aa697",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutoriales/Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Ortofoto radiométrica en drones DJI con Metashape Agisoft"
+            }
+          },
+          {
+            "id": "b22cfb5092b4ee5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e856e36f68b5e285",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "cd7569d46593c004",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutoriales/Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Ortofoto radiométrica en drones DJI con Metashape Agisoft"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "bases:Crear nueva base": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e856e36f68b5e285",
+  "lastOpenFiles": [
+    "Registros/2026-06-16/SRC/WhatsApp Image 2026-06-16 at 16.48.12.jpeg",
+    "Registros/2026-06-17/Reporte Cristian Inostroza 2026-06-17.md",
+    "Registros/2026-06-16/SRC",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.44.jpeg",
+    "Registros/2026-06-17/SRC",
+    "Registros/2026-06-16/Reporte Cristian Inostroza 2026-06-16.md",
+    "2026-06-18.md",
+    "Tutoriales/Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas",
+    "Registros/2026-06-17/SRC/Pasted image 20260618112142.png",
+    "Tutoriales/Pasted image 20260618113724.png",
+    "Tutoriales/Sin título.base",
+    "Tutoriales",
+    "Bienvenido.md",
+    "Registros/2026-06-17/Parametros Emisario ESVAL y Aguas del Valle.xlsx",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (3).jpeg",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47.jpeg",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (2).jpeg",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (1).jpeg",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46.jpeg",
+    "Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46 (3).jpeg",
+    "Registros/2026-06-17",
+    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.17.mp4",
+    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.15.mp4",
+    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.15 1.mp4",
+    "Registros/2026-06-16/SRC/WhatsApp Video 2026-06-16 at 16.48.16.mp4"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8c5db314f2bef8b5","type":"text","text":"Ajuste radiométrico con Thermal tools","x":-519,"y":-996,"width":250,"height":60},
+		{"id":"21671826c0cafc55","type":"file","file":"Tutoriales/Pasted image 20260618113724.png","x":-1040,"y":-1280,"width":391,"height":400},
+		{"id":"b420a9a2b976869c","type":"link","url":"https://www.youtube.com/watch?v=97VRuZGllZY","x":-1060,"y":-760,"width":640,"height":360}
+	],
+	"edges":[
+		{"id":"27351e1e0c75eda3","fromNode":"21671826c0cafc55","fromSide":"right","toNode":"8c5db314f2bef8b5","toSide":"top"},
+		{"id":"7b46daf6aa9b8e78","fromNode":"8c5db314f2bef8b5","fromSide":"bottom","toNode":"b420a9a2b976869c","toSide":"top"}
+	]
+}
