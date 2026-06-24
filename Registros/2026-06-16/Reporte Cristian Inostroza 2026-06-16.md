@@ -7,6 +7,7 @@ Se realizan los siguientes vuelos a emisarios con sensor H20T Sector el **Emisar
 ## Origen de datos y siguientes pasos
 - [📁 Proyecto Servidor](file:///Q:/01.-Procesamientos/01.-Servicios/S26196_DSP_Termograf%C3%ADa%20Emisarios%20ESVAL%20y%20AGUAS%20DEL%20VALLE)
 - [Vuelos subidos por Cristian G-DRIVE](https://drive.google.com/drive/folders/1PjDkpDEpax-YVdJXKJ4Lfl1JBojrJLsL)
+- [Vuelos subidos por Cristian SHAREPOINT](https://abssolutionscl.sharepoint.com/sites/readeProcesamiento/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FreadeProcesamiento%2FShared%20Documents%2F03%2E-%20Carpeta%20Interna%2FS26196%20DSP&p=true&ga=1)
 ### Generar orto mosaico térmico
 [[Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas]]
 
@@ -34,7 +35,18 @@ Durante la mañana se realiza el cambio de control remoto en las oficinas de ABS
 
 - 17:00 horas. Retorno a Santiago.
 
-- ==Se deja coordinada la continuidad de los trabajos con ESVAL para el día **17/06/2026.**== [[Reporte Cristian Inostroza 2026-06-17]]
+- ==Se deja coordinada la continuidad de los trabajos con ESVAL para el día **17/06/2026.**==
+ [[Reporte Cristian Inostroza 2026-06-17]]
+
+## Configuración de vuelos
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091512.png]]
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091559.png]]
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091641.png]]
+
+
 ## Fotos y videos
 
 ![[WhatsApp Image 2026-06-16 at 16.48.12.jpeg]]

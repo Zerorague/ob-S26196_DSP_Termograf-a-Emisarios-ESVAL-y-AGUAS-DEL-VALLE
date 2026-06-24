@@ -8,12 +8,13 @@ Se realizan los siguientes vuelos a emisarios con sensor H20T
 ## Origen de datos y siguientes pasos
 - [📁 Proyecto Servidor](file:///Q:/01.-Procesamientos/01.-Servicios/S26196_DSP_Termograf%C3%ADa%20Emisarios%20ESVAL%20y%20AGUAS%20DEL%20VALLE)
 - [Vuelos subidos por Cristian G-DRIVE](https://drive.google.com/drive/folders/1PjDkpDEpax-YVdJXKJ4Lfl1JBojrJLsL)
+- [Vuelos subidos por Cristian SHAREPOINT](https://abssolutionscl.sharepoint.com/sites/readeProcesamiento/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FreadeProcesamiento%2FShared%20Documents%2F03%2E-%20Carpeta%20Interna%2FS26196%20DSP&p=true&ga=1)
 ### Generar orto mosaico térmico
 [[Ortofoto radiométrica en drones DJI con Metashape Agisoft.canvas]]
 
 ## Comentarios
 
- - *Cristian envía tabla referente a parámetros para postproceso radiométrico de los días 16 y 17 de junio.*![[Pasted image 20260618112142.png]]
+ - *Cristian envía tabla referente a parámetros para postproceso radiométrico de los días 16 y 17 de junio.*![[Registros/2026-06-17/SRC/Pasted image 20260618112142.png]]
 ## Informe Diario
 
 Día 2:S26196 - DSP - Termografía emisarios ESVAL y Aguas del Valle 
@@ -31,30 +32,41 @@ Fecha:17-06-2026
 - Finalizadas las actividades en terreno, el equipo inicia el retorno a Santiago aproximadamente a las 17:00 horas.
 
 **Se deja coordinado con ESVAL y Aguas del Valle para las operaciones en Coquimbo y La Serena el día 18/06/2026. Durante esta jornada estará personal de la Superintendencia observado el proceso de medición**
+Siguiente reporte: [[Registros/2026-06-18/Reporte Cristian Inostroza 2026-06-18]]
+
+## Configuración de vuelos
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091752.png]]
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091819.png]]
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091849.png]]
+
+![[Registros/2026-06-18/SRC/Pasted image 20260619091935.png]]
 ## Fotos y videos
 
-![[WhatsApp Image 2026-06-17 at 19.37.44.jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.44.jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.45 (1).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.45 (1).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.45 (2).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.45 (2).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.45 (3).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.45 (3).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.45.jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.45.jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.46 (1).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46 (1).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.46 (2).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46 (2).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.46 (3).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46 (3).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.46.jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.46.jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.47 (1).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (1).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.47 (2).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (2).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.47 (3).jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47 (3).jpeg]]
 
-![[WhatsApp Image 2026-06-17 at 19.37.47.jpeg]]
+![[Registros/2026-06-17/SRC/WhatsApp Image 2026-06-17 at 19.37.47.jpeg]]
