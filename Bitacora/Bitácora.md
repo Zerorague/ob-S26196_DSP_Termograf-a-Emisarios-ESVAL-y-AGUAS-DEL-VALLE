@@ -26,3 +26,5 @@ ___
 - Se termina informe para una primera revisión con algunos pendientes generales y anexos.
 - Se genera base datos KML de anomalías ESVAL
 ![[Pasted image 20260624154043.png]]
+# 2026-06-26
+- Se terminan ambos informes de manera satisfactoria. 

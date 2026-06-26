@@ -3,8 +3,8 @@ Definición de cosas por hacer de forma ordenada.
 Revisar los entregables ([[Antecedentes]]) y una vez se vayan generando ir marcando como listos.
 ___
 ## Proyecto
- - [ ] Respaldar toda la información
- - [ ] oh20t a los vuelos para separar por tipo de imagen
+ - [x] Respaldar toda la información
+ - [x] oh20t a los vuelos para separar por tipo de imagen
  - [x] Ajuste radiométrico a las fotos térmicas
  - [ ] Generar ortofoto RGB a cada vuelo
 	 - [x] Tomar decisión de emisividad en base a ortofoto
@@ -22,7 +22,7 @@ ___
 	- San Antonio se realizó desde dos bases por un tema de señal. (Cristian Inostroza)
 
 ### 2026-06-24
-- [ ] Ordenar anexos con Cristian y agregar fotos faltantes junto a planes de vuelo.
+- [x] Ordenar anexos con Cristian y agregar fotos faltantes junto a planes de vuelo.
 ## Registro Excel avance entregables
 
 ![[Registro Avance.xlsx]]
